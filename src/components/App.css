@@ -1,0 +1,17 @@
+thead tr td {
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    border: 1px dotted black;
+}
+
+tbody td {
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted black;
+}
+
+.cover {
+    text-align: right; 
+}
