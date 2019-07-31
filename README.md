@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wjzz/cs-books-react.svg?branch=master)](https://travis-ci.org/wjzz/cs-books-react)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The project is available at: https://wjzz.github.io/cs-books-react
